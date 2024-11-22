@@ -10,7 +10,8 @@ A minimalistic web-based digital clock that dynamically updates the time every s
 
 ## Preview
 
-![Digital Time Clock Preview](https://github.com/user-attachments/assets/83fa3ff6-7cd1-477e-9f49-f690e5a7244b)
+![Digital Time Clock Preview](https://github.com/user-attachments/assets/cddffb4a-9129-47fa-b7cc-a882832f5161)
+
 
 ## Technologies Used
 
